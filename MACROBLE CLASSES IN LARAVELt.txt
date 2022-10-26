@@ -1,0 +1,5 @@
+MACRO IS THE CUSTOM WAY OF ADD HELPER FUNCTIONS TO EXITING LARAVEL CLASSES
+
+## list of macroable classes
+
+https://coderstape.com/blog/3-macroable-laravel-classes-full-list
